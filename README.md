@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anumathew-25" alt="anumathew-25" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **HTML,CSS,JS,MySQL**
 
 - 📫 How to reach me **anumathew1225@gmail.com**
 
